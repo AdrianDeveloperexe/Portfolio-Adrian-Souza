@@ -1430,3 +1430,10 @@ body.offcanvas {
   opacity: 0; }
 
 
+#colorlib-hero .flexslider .slides li .slider-text-inner .desc h1 {
+    color: #ffffff; 
+}
+
+#colorlib-hero .flexslider .slides li .slider-text-inner .desc h2 {
+  color: #ffffff; 
+}
